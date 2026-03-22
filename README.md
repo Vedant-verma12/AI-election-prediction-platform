@@ -1,0 +1,1 @@
+# AI-election-prediction-platform
